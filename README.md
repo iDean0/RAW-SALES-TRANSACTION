@@ -72,9 +72,12 @@ The cleaned data now supports:
 - Reliable performance evaluation
 - Improved reporting
 - Better data-driven decision-making
-
+  
+## BEFORE
 <img width="1910" height="695" alt="Screenshot 2026-02-22 142024" src="https://github.com/user-attachments/assets/8dd06323-560d-47a5-809c-5a13bb58ccda" />
 
+
+## AFTER
 <img width="1899" height="670" alt="Screenshot 2026-02-22 141857" src="https://github.com/user-attachments/assets/7bd1c1e8-1cf3-4efd-90b0-f26d6cd772ed" />
 
 ## Author
